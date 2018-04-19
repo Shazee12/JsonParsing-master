@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "367715179004",
+    "firebase_url": "https://coinfolio-4554a.firebaseio.com",
+    "project_id": "coinfolio-4554a",
+    "storage_bucket": "coinfolio-4554a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367715179004:android:c4bf9b3efd0b49c1",
+        "android_client_info": {
+          "package_name": "shahzaib.com.jsonparsingbitcoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367715179004-n8pgnirm89c390viaud5eua28rh1jt1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shahzaib.com.jsonparsingbitcoin",
+            "certificate_hash": "41c870dd4b53932c609ada474e83b2e3208f56db"
+          }
+        },
+        {
+          "client_id": "367715179004-p1i9ie7r12m8vnamda446js5qk4j6bka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Ex5uHMhZKlSaT_f1UAgPVQJDP9hI-0U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367715179004-p1i9ie7r12m8vnamda446js5qk4j6bka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
